@@ -1,0 +1,7 @@
+.*.un~
+
+node_modules
+typings
+
+*.iml
+.idea
